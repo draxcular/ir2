@@ -25,7 +25,7 @@
   "PingUnit.MicroSeconds|block": "μs",
   "maqueenIR.initIR|block": "connect ir receiver to %pin",
   "maqueenIR.onPressEvent|block": "on |%btn| button pressed",
-  "maqueenIR|block": "maqueenIR",
+  "maqueenIR|block": "maqueenir",
   "{id:category}Maqueen": "Maqueen",
   "{id:category}MaqueenIR": "MaqueenIR"
 }

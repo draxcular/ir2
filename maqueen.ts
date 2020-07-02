@@ -156,7 +156,7 @@ namespace maqueen {
      * Read ultrasonic sensor.
      */
 
-    //% blockId=ultrasonic_sensor block="read ultrasonic sensor |%unit "
+    //% blockId=ultrasonic_sensor block="read sensor |%unit "
     //% weight=95
     export function Ultrasonic(unit: PingUnit, maxCmDistance = 500): number {
         let d
